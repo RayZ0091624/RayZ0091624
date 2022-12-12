@@ -1,0 +1,6 @@
+This program needs a password to start, but the password isn't the one written on license.txt. 
+This program is wirtten in Chinese, while the core of this program is copied from the Internet. 
+All I did was to reassemble it. 
+If there are any bugs, send them to me. 
+I'm only a student in the seventh grade, so feel free!
+password: qwerty
